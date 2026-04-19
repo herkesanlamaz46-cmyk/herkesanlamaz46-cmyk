@@ -1,4 +1,4 @@
-# Selim Karaca 👋
+# Selim  👋
 
 ### 🚀 About Me
 I am an 8th-grade student passionate about software systems and architecture. I focus on pushing the boundaries of mobile hardware through advanced firmware porting and managing high-performance Minecraft environments.
